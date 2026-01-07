@@ -1,0 +1,185 @@
+CANDIDATE NAME
+
+AI / Machine Learning Engineer – LLM & RAG Specialist
+Email: candidate@email.com
+
+Phone: +91-XXXXXXXXXX
+Location: India
+LinkedIn: linkedin.com/in/candidate
+GitHub: github.com/candidate
+
+PROFESSIONAL SUMMARY
+
+AI and Machine Learning Engineer with strong hands-on experience in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), NLP pipelines, vector databases, and prompt engineering. Proven ability to design and deploy end-to-end AI applications including document-based question answering systems, semantic search engines, and AI assistants. Skilled in Python, Transformers, embeddings, FAISS, Pinecone, LangChain, OpenAI API, and system architecture for production-ready AI solutions.
+
+CORE SKILLS
+
+Large Language Models (LLMs)
+
+Retrieval-Augmented Generation (RAG)
+
+Prompt Engineering
+
+Natural Language Processing (NLP)
+
+Semantic Search
+
+Document Question Answering
+
+Text Embeddings
+
+Vector Databases (FAISS, Pinecone, Chroma)
+
+LangChain
+
+OpenAI API / Gemini API
+
+Hugging Face Transformers
+
+Tokenization and Chunking Strategies
+
+Python
+
+REST APIs
+
+FastAPI
+
+Machine Learning Pipelines
+
+Model Evaluation and Optimization
+
+Data Preprocessing and Cleaning
+
+Deployment and Monitoring
+
+Git and Version Control
+
+TECHNICAL STACK
+
+Languages: Python, SQL
+
+Frameworks: LangChain, FastAPI, Flask
+
+LLMs: GPT-4, GPT-3.5, Gemini, Open-source LLMs
+
+Vector Stores: FAISS, Pinecone, ChromaDB
+
+Embedding Models: OpenAI Embeddings, Sentence Transformers
+
+ML Libraries: Scikit-learn, NumPy, Pandas
+
+Deployment: Docker, Cloud APIs
+
+Tools: Git, Postman, Jupyter Notebook
+
+PROFESSIONAL EXPERIENCE
+AI / Machine Learning Engineer
+
+Company Name | Location
+Duration: Month Year – Present
+
+Designed and implemented Retrieval-Augmented Generation (RAG) pipelines for enterprise document-based question answering.
+
+Built semantic search systems using vector embeddings and similarity search.
+
+Integrated LLMs with vector databases to enable contextual and hallucination-reduced responses.
+
+Developed document ingestion pipelines including PDF parsing, chunking, embedding generation, and indexing.
+
+Applied prompt engineering techniques to improve answer relevance and factual grounding.
+
+Exposed AI services using FastAPI REST endpoints for real-time inference.
+
+Optimized retrieval performance using top-k search, metadata filtering, and chunk overlap strategies.
+
+Conducted evaluation using precision, recall, and response faithfulness metrics.
+
+PROJECTS
+Document-Based Question Answering System (RAG)
+
+Built an end-to-end RAG application for answering queries from internal company documents.
+
+Used PDF loaders, text splitters, embeddings, and vector search.
+
+Integrated LLM reasoning with retrieved context to reduce hallucinations.
+
+Deployed as a REST API for integration with frontend applications.
+
+Technologies: Python, LangChain, FAISS, OpenAI API, FastAPI
+
+AI Interview Coach
+
+Developed an AI-powered interview assistant using LLMs and structured prompts.
+
+Generated role-specific interview questions and feedback.
+
+Applied contextual memory and conversation state handling.
+
+Technologies: Python, LLM APIs, Prompt Engineering
+
+Resume Skill Gap Analyzer
+
+Created a system to compare resumes against job descriptions using semantic similarity.
+
+Identified missing skills, keywords, and role alignment gaps.
+
+Generated ATS-optimized improvement suggestions.
+
+Technologies: Sentence Transformers, Vector Search, Python
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+University Name | Year
+
+CERTIFICATIONS
+
+Machine Learning Specialization
+
+NLP with Transformers
+
+Generative AI and LLM Applications
+
+KEY ATS KEYWORDS (INTENTIONALLY INCLUDED)
+
+Large Language Models, LLM, Retrieval-Augmented Generation, RAG, NLP, Semantic Search, Vector Database, FAISS, Pinecone, LangChain, Prompt Engineering, Text Embeddings, Document Question Answering, AI Engineer, Machine Learning Engineer, Python, FastAPI, REST API, Transformers, Hugging Face, OpenAI API, Data Preprocessing, Model Deployment
+
+ADDITIONAL INFORMATION
+
+Experience building production-ready AI systems
+
+Strong understanding of AI system design and architecture
+
+Familiar with hallucination mitigation strategies
+
+Experience with real-world enterprise data
+
+Why this is ideal for a RAG knowledge base
+
+Fully ATS-compliant plain text
+
+High-density retrievable keywords
+
+Clear section boundaries for chunking
+
+Suitable for:
+
+Resume scoring
+
+Skill gap analysis
+
+Resume rewriting
+
+Job–resume matching
+
+ATS simulation systems
+
+If you want next, I can:
+
+Convert this into chunking-friendly JSON
+
+Create multiple role-based resume variants
+
+Generate resume embeddings schema
+
+Design a RAG prompt that retrieves and compares resumes automatically

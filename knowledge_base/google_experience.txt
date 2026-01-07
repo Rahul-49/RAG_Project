@@ -1,0 +1,130 @@
+INTERVIEW EXPERIENCE – GOOGLE LATERAL HIRING
+
+This document contains a real lateral hiring interview experience for Google, structured for Retrieval-Augmented Generation (RAG) systems. The experience is organized round-wise with technical depth, behavioral evaluation, and recruiter feedback.
+
+==================================================================
+
+COMPANY: :contentReference[oaicite:1]{index=1}
+Interview Type: Lateral Hiring
+Final Outcome: Not Selected (Overall Positive Experience)
+
+==================================================================
+
+ROUND 1: Recruiter Screening
+
+Format:
+- Long telephone conversations
+
+Evaluation Focus:
+- Professional background
+- Work experience
+- Technical stack
+- Career interests and availability
+
+==================================================================
+
+ROUND 2: Technical Interview (Video – Singapore)
+
+Problem Statement:
+- Find all occurrences of a smaller string within a larger string
+
+Evaluation Focus:
+- Naïve solution first
+- Progressive optimization
+- Hashing technique
+- Algorithm flow explanation
+- Time complexity (Big-O notation)
+
+Additional Details:
+- No code auto-completion
+- Whiteboarding used to explain logic
+- Duration approximately 45 minutes
+
+==================================================================
+
+ROUND 3: Technical Interview (Video – United States)
+
+Problem Focus:
+- Rope (Cord) data structure
+
+Tasks:
+- Implement the rope structure
+- Find length from both ends of a given node
+- Extract substrings using index ranges
+
+Evaluation Focus:
+- Data structure understanding
+- Algorithmic thinking
+- Problem decomposition
+
+==================================================================
+
+ROUND 4: Technical Interview (Video – Zurich)
+
+Problem Focus:
+- Rope (Cord) data structure (variant)
+
+Tasks:
+- Check if two cords are identical
+- Determine whether one cord contains another
+
+Candidate Observation:
+- Interviewers did not share details from previous rounds
+- Familiarity with the problem helped performance
+
+==================================================================
+
+ROUND 5: Advanced Technical Interview
+
+Problem Statement:
+- Stream of stock market data with possible updates to older values
+- Efficiently determine:
+  - Maximum value
+  - Minimum value
+  - Current value
+
+Evaluation Focus:
+- Time vs space trade-offs
+- Multiple solution approaches
+- Depth of system-level thinking
+
+Candidate Observation:
+- Interview felt challenging
+- Interviewer appeared unsatisfied
+
+==================================================================
+
+ROUND 6: Googliness Interview
+
+Evaluation Focus:
+- Behavioral and cultural alignment
+
+Sample Questions:
+- Most cherished career accomplishments
+- Most challenging career moments
+- Leadership experiences
+- Challenging the status quo
+- Promoting inclusion within teams
+
+Candidate Observation:
+- Conversational and engaging
+- Minimal technical preparation required
+
+==================================================================
+
+POST-INTERVIEW PROCESS
+
+- Recruiter shared feedback and ratings after each round
+- Candidate identified one weak technical round
+- Referral obtained from a Google employee
+- Final decision:
+  - No hiring manager accepted the profile
+  - Suggested to reapply after 6 months
+
+Overall Experience:
+- Professional and transparent process
+- Supportive recruiter throughout
+
+==================================================================
+
+End of Google Interview Experience Document

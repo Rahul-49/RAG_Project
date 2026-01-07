@@ -1,0 +1,214 @@
+ON-CAMPUS PLACEMENT PREPARATION ROADMAPS
+SERVICE-BASED IT COMPANIES (INDIA)
+
+This document contains structured preparation roadmaps for major service-based IT companies hiring through on-campus drives. Each roadmap includes aptitude, coding, computer science fundamentals, and interview preparation focus areas. The content is optimized for Retrieval-Augmented Generation (RAG) systems.
+
+==================================================================
+
+COMPANY: :contentReference[oaicite:0]{index=0} (TCS)
+
+Roadmap Focus:
+Aptitude-heavy with gradual increase in coding difficulty depending on role (Ninja, Digital, Prime).
+
+Preparation Areas:
+
+Aptitude:
+- Quantitative aptitude (percentages, ratios, time & work, time-speed-distance)
+- Logical reasoning (arrangements, puzzles, data sufficiency)
+- Verbal ability (reading comprehension, grammar, vocabulary)
+
+Coding:
+- Programming fundamentals (C / Java / Python)
+- Arrays and strings
+- Basic data structures
+- For Digital/Prime: OOPS, intermediate DSA, time complexity
+
+Computer Science Fundamentals:
+- DBMS basics and SQL queries
+- Operating systems basics
+- Software engineering fundamentals
+
+Interview Preparation:
+- Simple coding explanation
+- Project explanation
+- Managerial and HR scenario questions
+
+==================================================================
+
+COMPANY: :contentReference[oaicite:1]{index=1}
+
+Roadmap Focus:
+Balanced aptitude and coding, stronger emphasis on programming fundamentals.
+
+Preparation Areas:
+
+Aptitude:
+- Quantitative aptitude
+- Logical reasoning
+- Verbal ability
+
+Coding:
+- Strong basics in Java / Python / C++
+- OOPS concepts
+- Arrays, strings, basic recursion
+- For Specialist roles: intermediate DSA
+
+Computer Science Fundamentals:
+- DBMS and SQL
+- Operating systems concepts
+- SDLC and software engineering basics
+
+Interview Preparation:
+- Coding logic explanation
+- Project-based questions
+- HR and communication skills
+
+==================================================================
+
+COMPANY: :contentReference[oaicite:2]{index=2}
+
+Roadmap Focus:
+Balanced aptitude and coding with emphasis on clarity and fundamentals.
+
+Preparation Areas:
+
+Aptitude:
+- Quantitative aptitude
+- Logical reasoning
+- Verbal ability
+
+Coding:
+- Programming fundamentals
+- OOPS basics
+- Arrays and strings
+- For Elite roles: basic to intermediate DSA
+
+Computer Science Fundamentals:
+- DBMS basics
+- Software testing fundamentals
+- OS basics
+
+Interview Preparation:
+- Core programming questions
+- Project explanation
+- HR discussion
+
+==================================================================
+
+COMPANY: :contentReference[oaicite:3]{index=3}
+
+Roadmap Focus:
+Coding + SQL oriented with aptitude as elimination round.
+
+Preparation Areas:
+
+Aptitude:
+- Quantitative and logical reasoning
+- Verbal ability
+
+Coding:
+- Programming fundamentals
+- Arrays, strings
+- OOPS basics
+- For GenC Next: intermediate DSA
+
+Computer Science Fundamentals:
+- Strong DBMS and SQL
+- SDLC concepts
+- OS basics
+
+Interview Preparation:
+- Coding logic
+- SQL-based questions
+- Behavioral and HR questions
+
+==================================================================
+
+COMPANY: :contentReference[oaicite:4]{index=4}
+
+Roadmap Focus:
+Logic, clarity, and fundamentals rather than advanced coding.
+
+Preparation Areas:
+
+Aptitude:
+- Quantitative aptitude
+- Logical reasoning
+- Verbal ability
+
+Coding:
+- Programming fundamentals
+- Pseudo-code logic
+- Arrays and strings
+
+Computer Science Fundamentals:
+- DBMS basics
+- Software engineering fundamentals
+
+Interview Preparation:
+- Logic explanation
+- Project discussion
+- HR round
+
+==================================================================
+
+COMPANY: :contentReference[oaicite:5]{index=5}
+
+Roadmap Focus:
+Balanced preparation with high importance on communication and clarity.
+
+Preparation Areas:
+
+Aptitude:
+- Cognitive ability
+- Logical reasoning
+- Verbal ability
+
+Coding:
+- Programming fundamentals
+- OOPS basics
+- Scenario-based coding questions
+
+Computer Science Fundamentals:
+- DBMS basics
+- OS basics
+- Cloud awareness (introductory)
+
+Interview Preparation:
+- Scenario-based technical questions
+- Communication skills
+- HR and managerial discussion
+
+==================================================================
+
+COMPANY: :contentReference[oaicite:6]{index=6}
+
+Roadmap Focus:
+Strong emphasis on computer science fundamentals.
+
+Preparation Areas:
+
+Aptitude:
+- Quantitative aptitude
+- Logical reasoning
+- Verbal ability
+
+Coding:
+- Programming fundamentals
+- Arrays and strings
+- OOPS basics
+
+Computer Science Fundamentals:
+- Operating systems
+- DBMS
+- Computer networks
+- Software testing basics
+
+Interview Preparation:
+- Technical fundamentals
+- Troubleshooting scenarios
+- HR discussion
+
+==================================================================
+
+End of Roadmap Knowledge Base

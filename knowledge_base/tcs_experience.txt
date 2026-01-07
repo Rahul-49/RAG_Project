@@ -1,0 +1,115 @@
+INTERVIEW EXPERIENCE – TCS ON-CAMPUS PLACEMENT
+
+This document contains a real on-campus interview experience for Tata Consultancy Services (TCS), structured for Retrieval-Augmented Generation (RAG) systems. The experience is organized round-wise with focus areas, evaluation criteria, and candidate observations.
+
+==================================================================
+
+COMPANY: :contentReference[oaicite:0]{index=0} (TCS)
+Interview Type: On-Campus Placement
+Final Outcome: Selected (Offer Letter Received)
+
+==================================================================
+
+ROUND 1: Aptitude Test
+
+Evaluation Focus:
+- Quantitative aptitude
+- Logical reasoning
+- Accuracy over number of attempts
+
+Candidate Details:
+- Attempted approximately 23 questions
+- Candidates with similar attempts cleared the round
+- Accuracy was more important than attempting all questions
+
+Key Insight:
+- Higher attempts do not necessarily lead to higher scores
+- Strong understanding of basic quantitative concepts is critical
+
+==================================================================
+
+ROUND 2: Technical Interview
+
+Duration:
+- Approximately 25 minutes
+
+Topics Covered:
+- Self-introduction (education, family, achievements)
+- Core subjects:
+  - Computer Networks
+  - Operating Systems
+  - Data Structures and Algorithms
+  - DBMS
+  - Java, C, C++
+- Academic project discussion:
+  - Project explanation
+  - Reason for chosen approach
+  - Alternative methods
+- OSI model basics
+- DBMS normalization and differences between normal forms
+- Data structures fundamentals
+- Inheritance concepts in OOPS
+
+Evaluation Style:
+- Basic questions asked in depth
+- Follow-up questions used to test conceptual clarity
+
+Candidate Observation:
+- Strong fundamentals were more important than advanced knowledge
+
+==================================================================
+
+ROUND 3: Management Interview
+
+Interviewer Profile:
+- Senior HR professional with approximately 15 years of experience
+
+Evaluation Focus:
+- Confidence under stress
+- Career goals and motivation
+- Decision-making ability
+- Organizational fit
+
+Sample Questions:
+- Why TCS?
+- Where do you see yourself in 5 years?
+- Monthly expenses
+- Expectations from TCS
+- College attendance and learning habits
+- Approach to learning unfamiliar technologies
+- Handling tedious or undesired tasks
+- Location flexibility
+
+Candidate Observation:
+- Interviewer deliberately tested confidence through neutral or negative reactions
+- Remaining calm and confident was critical
+
+==================================================================
+
+ROUND 4: HR Interview
+
+Evaluation Focus:
+- Personal background
+- Self-awareness
+- Motivation and clarity
+
+Sample Questions:
+- Meaning of candidate’s name
+- Strengths and weaknesses (with examples)
+- Why TCS? (revisited)
+- Questions from the candidate to the interviewer
+
+Candidate Observation:
+- Short and conversational
+- Easier compared to management interview
+
+==================================================================
+
+FINAL RESULT
+
+- Offer letter announced at midnight
+- Positive emotional outcome for candidate and family
+
+==================================================================
+
+End of TCS Interview Experience Document

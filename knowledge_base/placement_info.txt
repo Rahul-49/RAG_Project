@@ -1,0 +1,116 @@
+     The Training and Placement Cell of PVP Siddhartha is established with the sole aim of finding suitable employment opportunity to all the eligible students. It caters to all the training requirements of students through highly experienced Faculty.
+     The unique program of skill enhancement identifies and nurtures the talent in job aspirants and ignites the young minds to capably and confidently face the recruitment drives.
+     Need based curriculum that is specially designed fine tunes the student to the corporate requirements.
+     The placement cell has state of the art infrastructure and rich ambiance to facilitate the training process. The students of PVP are provided excellent training that enhances their potential and improves their confidence levels.
+     The facilities include a well furnished Auditorium, GD rooms, closed interview panels and conference halls.
+STAFF DIRECTORY – TRAINING, PLACEMENTS, AND TECHNICAL SUPPORT
+
+This document contains structured and descriptive information about staff members associated with training, placements, soft skills development, and technical programming roles. Each entry includes name, designation, qualification, responsibilities, and contact details where available. The content is optimized for semantic search and Retrieval-Augmented Generation (RAG) systems.
+
+------------------------------------------------------------------
+
+Staff ID: staff_001
+Name: Mr. G. Ramesh Babu
+Designation: Head – Training & Placements
+Qualification: MBA
+Department: Training and Placements
+Contact Number: 9246620777
+
+Description:
+Mr. G. Ramesh Babu serves as the Head of Training and Placements. He is responsible for overseeing placement activities, coordinating with industry partners, managing campus recruitment drives, and guiding students toward career readiness. He holds an MBA qualification and leads strategic training and placement initiatives.
+
+------------------------------------------------------------------
+
+Staff ID: staff_002
+Name: Mr. K. Naresh Kumar
+Designation: Assistant Training & Placement Officer
+Qualification: MBA
+Department: Training and Placements
+Contact Number: 7893656735
+
+Description:
+Mr. K. Naresh Kumar works as the Assistant Training and Placement Officer. He supports placement operations, assists in student coordination, handles employer communication, and contributes to organizing recruitment-related activities. He is qualified with an MBA.
+
+------------------------------------------------------------------
+
+Staff ID: staff_003
+Name: Ms. L. Sudheera
+Designation: Soft Skills Trainer
+Qualification: MBA
+Department: Training
+Contact Number: 9640958999
+
+Description:
+Ms. L. Sudheera is a Soft Skills Trainer with an MBA qualification. She focuses on enhancing students’ communication abilities, professional behavior, interview readiness, and overall employability skills through structured training programs.
+
+------------------------------------------------------------------
+
+Staff ID: staff_004
+Name: Ms. S. Kusuma Kumari
+Designation: Junior Programmer
+Qualification: M.Sc
+Department: Technical
+
+Description:
+Ms. S. Kusuma Kumari works as a Junior Programmer. She holds an M.Sc qualification and contributes to software development tasks, programming support, and technical assistance activities within the organization.
+---------------------------------------
+
+SECTION 2: ACADEMIC YEAR–WISE PLACEMENT SELECTION STATISTICS
+
+------------------------------------------------------------------
+
+Academic Year: 2024–25
+Number of Selections: 1063
+
+Description:
+During the academic year 2024–25, a total of 1063 students were successfully selected through campus placement and recruitment activities, reflecting strong industry engagement and placement performance.
+
+------------------------------------------------------------------
+
+Academic Year: 2023–24
+Number of Selections: 1026
+
+Description:
+In the academic year 2023–24, the institution recorded 1026 placement selections, demonstrating consistent recruitment outcomes across multiple sectors.
+
+------------------------------------------------------------------
+
+Academic Year: 2022–23
+Number of Selections: 956
+
+Description:
+For the academic year 2022–23, 956 students secured placement selections through institutional recruitment initiatives.
+
+------------------------------------------------------------------
+
+Academic Year: 2021–22
+Number of Selections: 1118
+
+Description:
+The academic year 2021–22 marked a high placement performance, with 1118 students selected, indicating strong recovery and growth in recruitment opportunities.
+
+------------------------------------------------------------------
+
+Academic Year: 2020–21
+Number of Selections: 954
+
+Description:
+In the academic year 2020–21, despite challenging conditions, 954 students achieved placement selections through institutional efforts.
+
+------------------------------------------------------------------
+
+Academic Year: 2019–20
+Number of Selections: 606
+
+Description:
+The academic year 2019–20 recorded 606 placement selections, reflecting early-stage recruitment performance before subsequent growth.
+
+------------------------------------------------------------------
+
+Academic Year: 2018–19
+Number of Selections: 606
+
+Description:
+In the academic year 2018–19, the institution achieved 606 placement selections, establishing a baseline for future placement growth.
+
+==================================================================

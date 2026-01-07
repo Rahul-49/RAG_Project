@@ -1,0 +1,260 @@
+ON-CAMPUS IT SERVICE ROLES – DETAILED ROLE-WISE SKILLS AND PLACEMENT PROCESS
+
+This document provides a role-wise breakdown of on-campus hiring positions offered by major IT service companies in India. Each role includes a clear role description, required technical and non-technical skills, detailed placement rounds, and compensation details. The document is optimized for Retrieval-Augmented Generation (RAG) systems used in placement guidance, interview preparation, and skill-gap analysis.
+
+==================================================================
+
+COMPANY: Tata Consultancy Services (TCS)
+------------------------------------------------------------------
+
+Role ID: tcs_role_001
+Role Name: Ninja (Assistant System Engineer – Ninja)
+Pay Scale: 3.3–3.6 LPA
+
+Role Overview:
+Entry-level engineering role focused on application support, development, and testing with foundational programming requirements.
+
+Required Skills:
+- Programming fundamentals (C, Java, Python)
+- Basic Data Structures (arrays, strings)
+- SQL and DBMS fundamentals
+- Operating Systems basics
+- Strong aptitude and communication skills
+
+Placement Rounds:
+1. Online Aptitude Test
+   - Quantitative aptitude
+   - Logical reasoning
+   - Verbal ability
+2. Technical Interview
+   - Programming basics
+   - Simple coding problems
+   - DBMS and OS questions
+3. Managerial Interview
+   - Situation-based questions
+   - Teamwork and adaptability
+4. HR Interview
+   - Company fit
+   - Relocation and policy discussion
+
+------------------------------------------------------------------
+
+Role ID: tcs_role_002
+Role Name: Digital Engineer
+Pay Scale: 6–7 LPA
+
+Role Overview:
+Mid-tier engineering role involving development, automation, and digital technologies.
+
+Required Skills:
+- Strong programming in Java / Python
+- Data Structures (arrays, linked lists, stacks)
+- OOPS concepts
+- SQL and basic system design
+- Basics of cloud and DevOps
+
+Placement Rounds:
+1. Online Technical + Aptitude Test
+   - Moderate-level coding questions
+   - Logical and analytical reasoning
+2. Technical Interview
+   - Coding and OOPS
+   - DBMS, OS, and basic system design
+3. Managerial Interview
+   - Project discussion
+   - Problem-solving approach
+4. HR Interview
+
+------------------------------------------------------------------
+
+Role ID: tcs_role_003
+Role Name: Prime
+Pay Scale: 9–11 LPA
+
+Role Overview:
+High-end role focused on advanced software engineering and problem-solving.
+
+Required Skills:
+- Advanced Data Structures and Algorithms
+- Competitive programming fundamentals
+- System design (basic)
+- Strong OOPS and DBMS
+- Excellent communication and leadership traits
+
+Placement Rounds:
+1. Advanced Online Coding Test
+   - DSA-heavy problems
+   - Time and space complexity
+2. Technical Interview (Round 1)
+   - Deep DSA and coding discussion
+3. Technical Interview (Round 2)
+   - System design and project depth
+4. Managerial + HR Interview
+
+==================================================================
+
+COMPANY: Infosys
+------------------------------------------------------------------
+
+Role ID: infosys_role_001
+Role Name: Systems Engineer
+Pay Scale: 3.6 LPA
+
+Required Skills:
+- Programming basics (Java, Python)
+- DBMS and SQL
+- SDLC fundamentals
+- Communication skills
+
+Placement Rounds:
+1. Online Aptitude Test
+2. Technical Interview
+3. HR Interview
+
+------------------------------------------------------------------
+
+Role ID: infosys_role_002
+Role Name: Specialist Programmer
+Pay Scale: 8–10 LPA
+
+Required Skills:
+- Strong DSA and problem-solving
+- OOPS and system fundamentals
+- Hands-on project experience
+- Basic system design
+
+Placement Rounds:
+1. Advanced Coding Test
+2. Technical Interview (DSA + Projects)
+3. HR Interview
+
+==================================================================
+
+COMPANY: Wipro
+------------------------------------------------------------------
+
+Role ID: wipro_role_001
+Role Name: Project Engineer
+Pay Scale: 3.5–4 LPA
+
+Required Skills:
+- Programming fundamentals
+- Software testing basics
+- SQL and DBMS
+- Communication skills
+
+Placement Rounds:
+1. Online Aptitude Test
+2. Technical Interview
+3. HR Interview
+
+------------------------------------------------------------------
+
+Role ID: wipro_role_002
+Role Name: Elite National Talent Hunt
+Pay Scale: 6–7 LPA
+
+Required Skills:
+- DSA (basic to intermediate)
+- OOPS and programming
+- Analytical thinking
+
+Placement Rounds:
+1. Online Coding + Aptitude Test
+2. Technical Interview
+3. HR Interview
+
+==================================================================
+
+COMPANY: Cognizant
+------------------------------------------------------------------
+
+Role ID: cog_role_001
+Role Name: GenC
+Pay Scale: 4–4.5 LPA
+
+Required Skills:
+- Programming fundamentals
+- SQL and DBMS
+- SDLC basics
+
+Placement Rounds:
+1. Online Aptitude + Technical Test
+2. Technical Interview
+3. HR Interview
+
+------------------------------------------------------------------
+
+Role ID: cog_role_002
+Role Name: GenC Next
+Pay Scale: 6–7 LPA
+
+Required Skills:
+- Intermediate DSA
+- OOPS
+- Project experience
+
+Placement Rounds:
+1. Advanced Coding Test
+2. Technical Interview
+3. HR Interview
+
+==================================================================
+
+COMPANY: Capgemini
+------------------------------------------------------------------
+
+Role ID: cap_role_001
+Role Name: Analyst
+Pay Scale: 4–5 LPA
+
+Required Skills:
+- Programming basics
+- SQL and DBMS
+- Problem-solving
+
+Placement Rounds:
+1. Online Assessment
+2. Technical Interview
+3. HR Interview
+
+==================================================================
+
+COMPANY: Accenture
+------------------------------------------------------------------
+
+Role ID: acc_role_001
+Role Name: Associate Software Engineer
+Pay Scale: 4.5–5 LPA
+
+Required Skills:
+- Programming fundamentals
+- OOPS
+- Cloud awareness (basic)
+- Strong communication
+
+Placement Rounds:
+1. Cognitive & Technical Assessment
+2. Technical Interview
+3. HR Interview
+
+==================================================================
+
+COMPANY: HCL Technologies
+------------------------------------------------------------------
+
+Role ID: hcl_role_001
+Role Name: Graduate Engineer Trainee
+Pay Scale: 3.5–4 LPA
+
+Required Skills:
+- Programming basics
+- OS, DBMS, Networking
+- Troubleshooting skills
+
+Placement Rounds:
+1. Online Aptitude Test
+2. Technical Interview
+3. HR Interview
+
+==================================================================

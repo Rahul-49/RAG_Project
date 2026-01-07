@@ -1,0 +1,146 @@
+FAANG COMPANIES – ROLE OVERVIEW, SKILLS, AND PAY SCALE (INDIA)
+
+This document provides concise yet semantically rich information about FAANG companies, including a one-line company overview, common job roles, role-specific skill requirements, and approximate annual compensation ranges in India (LPA). The content is structured for Retrieval-Augmented Generation (RAG) systems to support career guidance, role-based queries, and compensation insights.
+
+==================================================================
+
+SECTION 1: FAANG COMPANY PROFILES
+
+------------------------------------------------------------------
+
+Company ID: Google
+Company Name: :contentReference[oaicite:0]{index=0} (Facebook)
+
+Company Overview (One Line):
+Meta focuses on building social platforms, immersive digital experiences, and large-scale AI-driven products.
+
+Common Job Roles:
+- Software Development Engineer (SDE)
+- Data Scientist
+- Machine Learning Engineer
+- Product Manager
+- Security Engineer
+
+Role-Specific Skills Required:
+- Strong proficiency in Data Structures and Algorithms
+- System Design and Distributed Systems
+- Python, C++, Java, or Hack (PHP)
+- Machine Learning, Deep Learning (for ML roles)
+- Large-scale data processing and experimentation
+
+Pay Scale (India):
+- Entry Level: 25–35 LPA
+- Mid Level: 40–60 LPA
+- Senior Level: 70–90+ LPA
+
+------------------------------------------------------------------
+
+Company ID: Meta/Facebook
+Company Name: :contentReference[oaicite:1]{index=1}
+
+Company Overview (One Line):
+Apple designs consumer electronics and software with a strong emphasis on performance, security, and user experience.
+
+Common Job Roles:
+- Software Engineer
+- Embedded Systems Engineer
+- iOS/macOS Developer
+- Hardware Validation Engineer
+- AI/ML Engineer
+
+Role-Specific Skills Required:
+- C/C++, Objective-C, Swift
+- Operating Systems and Memory Management
+- Embedded Systems and Hardware-Software Integration
+- Performance Optimization
+- Applied Machine Learning (for AI roles)
+
+Pay Scale (India):
+- Entry Level: 20–30 LPA
+- Mid Level: 35–55 LPA
+- Senior Level: 60–85+ LPA
+
+------------------------------------------------------------------
+
+Company ID: Adobe
+Company Name: :contentReference[oaicite:2]{index=2}
+
+Company Overview (One Line):
+Amazon operates large-scale e-commerce, cloud computing, and AI-driven services with a focus on scalability and reliability.
+
+Common Job Roles:
+- Software Development Engineer (SDE I/II/III)
+- Data Engineer
+- Applied Scientist
+- Cloud Solutions Architect
+- Operations Research Scientist
+
+Role-Specific Skills Required:
+- Strong Data Structures and Algorithms
+- Distributed Systems and Microservices
+- Java, Python, C++
+- AWS services and cloud-native design
+- Data Engineering pipelines and analytics
+
+Pay Scale (India):
+- Entry Level: 18–28 LPA
+- Mid Level: 30–50 LPA
+- Senior Level: 55–80+ LPA
+
+------------------------------------------------------------------
+
+Company ID: Amazon
+Company Name: :contentReference[oaicite:3]{index=3}
+
+Company Overview (One Line):
+Netflix delivers global streaming services powered by data-driven decision-making and high-performance systems.
+
+Common Job Roles:
+- Senior Software Engineer
+- Data Scientist
+- Platform Engineer
+- Machine Learning Engineer
+- Site Reliability Engineer (SRE)
+
+Role-Specific Skills Required:
+- Advanced System Design
+- Cloud-native architectures
+- Python, Java, Scala
+- Recommendation Systems and ML pipelines
+- High-availability and fault-tolerant systems
+
+Pay Scale (India):
+- Entry Level: Limited hiring (mostly senior)
+- Mid Level: 45–65 LPA
+- Senior Level: 70–100+ LPA
+
+------------------------------------------------------------------
+
+Company ID: Netflix
+Company Name: :contentReference[oaicite:4]{index=4}
+
+Company Overview (One Line):
+Google builds large-scale search, cloud, AI, and consumer technology products impacting billions of users.
+
+Common Job Roles:
+- Software Engineer
+- Site Reliability Engineer (SRE)
+- Machine Learning Engineer
+- Data Scientist
+- Product Manager
+
+Role-Specific Skills Required:
+- Exceptional Data Structures and Algorithms
+- Distributed Systems and Scalability
+- C++, Java, Python, Go
+- Machine Learning, AI, and statistical modeling
+- Systems reliability and automation
+
+Pay Scale (India):
+- Entry Level: 30–40 LPA
+- Mid Level: 45–65 LPA
+- Senior Level: 70–100+ LPA
+
+==================================================================
+
+End of FAANG Company Roles Document
